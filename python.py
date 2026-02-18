@@ -1,4 +1,5 @@
-a=7
-for i in range(1,10):
-    b= a*i
-    print(a,"*",i,"=",b)
+a=5
+for i in range(1):
+    for j in range(1,i+1):
+        print("*",enf="")
+    print()
